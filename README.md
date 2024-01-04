@@ -1,13 +1,11 @@
  "_I am now seeking an entry-level position to apply and further develop my coding skills and work for a company with a clear vision and strategy._"
  <br>
+ <br>
 
 <h1 align="center">Hi there 👋, I'm Marko, based in Leipzig, Germany</h1>
 <h3 align="center">Dedicated Full-stack Web developer with experience in teaching and healthcare, who recently graduated a 1-year intensive training in MERN stack.<h3> 
 <br>
  
-
-
-
 
 - 🔭 Here you can check out my first project 📂 [MyPortfolio](https://markotertinek.github.io/Project-web-portfolio/)
 
@@ -51,10 +49,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoTertinek&theme=omni&show_icons=true)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkoTertinek&theme=omni&show_icons=true)
-
-
-
-
 
 
 
