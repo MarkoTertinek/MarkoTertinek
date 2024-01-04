@@ -48,8 +48,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoTertinek&theme=omni&show_icons=true)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkoTertinek&theme=omni&show_icons=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoTertinek&theme=omni&show_icons=true&hide_progress=true)
+
 
 
 
