@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marko Tertinek, based in Leipzig, Germany</h1>
 <h3 align="center">Dedicated Full-stack Web developer with experience in teaching and healthcare, who recently graduated a 1-year intensive training in MERN stack.<h3> 
  
-<p align="center">I am now seeking an entry-level position to apply and further develop my coding skills and work for a company with a clear vision and strategy🚀.<p> 
+I am now seeking an entry-level position to apply and further develop my coding skills and work for a company with a clear vision and strategy.🚀
 
 
 
-- 🔭 Here you can check out my portfolio and my first project 📂[Portfolio](https://markotertinek.github.io/Project-web-portfolio/)
+- 🔭 Here you can check out my portfolio and my first project 📂 [MyPortfolio](https://markotertinek.github.io/Project-web-portfolio/)
 
 - 🌼 I’m currently working on [Bloom Express](https://bloom-express.onrender.com/)
 
