@@ -2,7 +2,7 @@
  <br>
  <br>
 
-<h1 align="center">Hi there 👋, I'm Marko, based in Leipzig, Germany</h1>
+<h1 align="center">Hi there 👋, I'm Marko, based in Leipzig, Germany🌱</h1>
 <h3 align="center">Dedicated Full-stack Web developer with experience in teaching and healthcare, who recently graduated a 1-year intensive training in MERN stack.<h3> 
 <br>
  
@@ -49,6 +49,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoTertinek&theme=omni&show_icons=true)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkoTertinek&theme=omni&show_icons=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoTertinek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
