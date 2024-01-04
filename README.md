@@ -5,9 +5,9 @@ I am now seeking an entry-level position to apply and further develop my coding 
 
 
 
-- 🔭 Here you can check out my portfolio and my first project 📂 [MyPortfolio](https://markotertinek.github.io/Project-web-portfolio/)
+- 🔭 Here you can check out my first project 📂 [MyPortfolio](https://markotertinek.github.io/Project-web-portfolio/)
 
-- 🌼 I’m currently working on [Bloom Express](https://bloom-express.onrender.com/)
+- 🌼 I’m currently working on the project [Bloom Express](https://bloom-express.onrender.com/)
 
 - 📫 How to reach me: *marko.tertinek@gmail.com*
 
