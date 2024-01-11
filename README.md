@@ -3,7 +3,7 @@
  <br>
 
 <h1 align="center">Hi there 👋, I'm Marko, based in Leipzig, Germany🌱</h1>
-<h3 align="center">Dedicated Full-stack Web developer with experience in teaching and healthcare, who recently graduated a 1-year intensive training in MERN stack.<h3> 
+<h3 align="center">Dedicated Full-stack Web developer with experience in teaching and healthcare, who graduated from a 1-year intensive training in MERN stack.<h3> 
 <br>
  
 
